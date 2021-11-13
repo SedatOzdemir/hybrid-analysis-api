@@ -1,0 +1,17 @@
+{
+    "urls": [
+        {
+            "quickScanUrl":"https://www.hybrid-analysis.com/api/v2/quick-scan/",
+            "quickScanUrl2":"https://www.hybrid-analysis.com/api/v2/quick-scan/url",
+            "serviceStateUrl":"https://www.hybrid-analysis.com/api/v2/quick-scan/state",
+            "hashLookupUrl": "https://www.hybrid-analysis.com/api/v2/search/hash"
+        }
+    ],
+    "hybridanalysis":
+    {
+        "api-key":"",
+        "header-accept": "application/json",
+        "user-agent": "Falcon Sandbox",
+        "content-type": "application/x-www-form-urlencoded"
+    }
+}
